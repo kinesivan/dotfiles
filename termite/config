@@ -1,0 +1,24 @@
+[options]
+allow_bold = false
+font = artwiz lemon 8
+cursor_shape = underline
+
+[colors]
+foreground = #c2c2b0
+background = #121212
+color0 = #121212
+color8 = #121212
+color1 = #875F5F
+color9 = #875F5F
+color2 = #444444
+color10 = #444444
+color3 = #666666
+color11 = #666666
+color4 = #888888
+color12 = #888888
+color5 = #999999
+color13 = #999999
+color6 = #aaaaaa
+color14 = #aaaaaa
+color7 = #c1c1c1
+color15 = #c1c1c1
